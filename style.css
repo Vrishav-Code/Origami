@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: dodgerblue;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+
+#welcome {
+    padding-left: 400px;
+    padding-right: 400px;
+    background-color: darkkhaki;
+}
+
+img {
+    height: 300px;
+    width: 500px;
+}
+
+a {
+    display:inline-block;
+    background-color: darkorange;
+        margin:30px;
+
+
+}
+
+#me {
+border-radius: 30px;
+width:70px;
+height:70px;
+}
+
+#picture {
+padding-left:1250px;
+}
+
